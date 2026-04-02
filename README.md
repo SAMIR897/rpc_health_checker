@@ -1,6 +1,6 @@
 # 🏥 RPC Health Checker
 
-A Rust tool that benchmarks multiple Ethereum RPC endpoints concurrently and ranks them by response time.
+A robust monitoring utility designed to evaluate the performance and reliability of blockchain RPC nodes. It tracks latency, block height synchronization, and API availability across multiple networks simultaneously. This tool is indispensable for infrastructure providers and dApp developers who demand high availability and consistency from their node providers.
 
 ## Features
 
